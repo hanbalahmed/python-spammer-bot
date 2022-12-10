@@ -11,6 +11,6 @@ this bot spams "the bee movie script"
 # How to Run
 just do in console
 ```
-py ./main.py and start spamming!
+py ./main.py
 ```
-keybind is enter
+and start spamming!
