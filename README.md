@@ -7,3 +7,10 @@ this bot spams "the bee movie script"
  ```
  pip install pyautogui
  ```
+
+# How to Run
+just do in console
+```
+py ./main.py and start spamming!
+```
+keybind is enter
